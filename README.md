@@ -4,7 +4,7 @@
 <b>First Thing First</b><br>
 This tool is only capable of finding publicly available information using search engine, and do not illicitly breaks into any private databases. This tool should not be used as a recon tool for harvesting email addresses.
 <br><br>
-<b> Short working demonstration of HackTheKeyBoard </b><br>
+<b> Short working demonstration of ID-Looup </b><br>
 https://www.youtube.com/watch?v=upqk_G0_hzc&feature=youtu.be
 <br><br>
 <b>How stuff works?</b>
