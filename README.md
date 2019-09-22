@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=upqk_G0_hzc&feature=youtu.be
 <b>How stuff works?</b>
 This program  utilises requests package to send crafted search requests to Google Search engine. The program then reads the reponse from search results, peeps into every URL and extracts information using regular expression.
 
-<br><br>
+<br>
 <b> Installation</b><br><br>
 1) Install python interpreter (ignore if already installed) -> `apt-get install python3`<br>
 2) Download or Clone this repository -> `git clone https://github.com/Sumeet-R/ID-Lookup`<br>
