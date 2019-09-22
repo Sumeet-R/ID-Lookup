@@ -2,7 +2,7 @@
 <h3>A powerful search tool that can find exposed email addresses and mobile numbers on Internet.</h3>
 
 <b>First Thing First</b><br>
-This tool is only capable of finding publicly available information using search engine, and do not illicitly breaks into any private databases. The tool should not be used as a recon tool for harvesting email addresses.
+This tool is only capable of finding publicly available information using search engine, and do not illicitly breaks into any private databases. This tool should not be used as a recon tool for harvesting email addresses.
 
 
 <br>
