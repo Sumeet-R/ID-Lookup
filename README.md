@@ -15,8 +15,8 @@ This program  utilises requests package to send crafted search requests to Googl
 
 <br>
 <b> Installation</b><br><br>
-1) Install python interpreter (ignore if already installed) -> `apt-get install python3`<br>
-2) Download or Clone this repository -> `git clone https://github.com/Sumeet-R/ID-Lookup`<br>
-3) Install Dependencies -> `pip3 install -r requirements.txt` or manually install the mentioned packages in requirements.txt<br>
-4) Run the program -> `python3 idlookup.py`<br>
+1) Install python interpreter (ignore if already installed) -> apt-get install python3 <br>
+2) Download or Clone this repository -> git clone https://github.com/Sumeet-R/ID-Lookup <br>
+3) Install Dependencies -> pip3 install -r requirements.txt or manually install the mentioned packages in requirements.txt<br>
+4) Run the program -> python3 idlookup.py <br>
 
