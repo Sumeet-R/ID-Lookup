@@ -12,8 +12,8 @@ This program  utilises requests package to send crafted search requests to Googl
 <br><br>
 <b> Installation</b><br>
 > sudo yum install python3 python3-pip git -y <br>
-> git clone clone https://github.com/Sumeet-R/ID-Lookup <br>
+> git clone https://github.com/Sumeet-R/ID-Lookup <br>
 > cd ID-Lookup <br>
-> sudo pip3 install -r requirements.txt <br>
+> sudo pip3 install -r requirements <br>
 > python3 idlookup.py
 
