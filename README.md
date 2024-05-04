@@ -10,10 +10,18 @@ https://www.youtube.com/watch?v=upqk_G0_hzc&feature=youtu.be
 <b>How stuff works?</b>
 This program  utilises requests package to send crafted search requests to Google Search engine. The program then reads the reponse from search results, peeps into every URL and extracts information using regular expression.
 <br><br>
-<b> Installation</b><br>
+<b> Installation on Red Hat Enterprise Linux, CentOS, and Fedora</b><br>
 > sudo yum install python3 python3-pip git -y <br>
 > git clone https://github.com/Sumeet-R/ID-Lookup <br>
 > cd ID-Lookup <br>
 > sudo pip3 install -r requirements <br>
+> python3 idlookup.py <br><br>
+
+<b> Installation on Debian, Ubuntu, Linux Mint, and elementary OS</b><br>
+> sudo apt-get install python3 python3-pip git -y <br>
+> git clone https://github.com/Sumeet-R/ID-Lookup <br>
+> cd ID-Lookup <br>
+> sudo pip3 install -r requirements <br>
 > python3 idlookup.py
+
 
