@@ -16,7 +16,6 @@ This program  utilises requests package to send crafted search requests to Googl
 > git clone https://github.com/Sumeet-R/ID-Lookup <br>
 > cd ID-Lookup <br>
 > sudo pip3 install -r requirements <br>
-> python3 idlookup.py <br><br>
 
 <b> Installation on Debian, Ubuntu, Linux Mint, and elementary OS</b><br>
 > sudo apt-get update <br>
@@ -24,6 +23,8 @@ This program  utilises requests package to send crafted search requests to Googl
 > git clone https://github.com/Sumeet-R/ID-Lookup <br>
 > cd ID-Lookup <br>
 > sudo pip3 install -r requirements <br>
+
+<b> Running the ID-Lookup</b><br>
 > python3 idlookup.py
 
 
